@@ -19,7 +19,7 @@ Trabalho como **mecânico de aeronaves**, mas estou em transição para a área 
 
 
 💡 **Vamos conectar?**  
-Meu linkedin
+
 [![LinkedIn](https://img.shields.io/badge/-Milton_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milton-gomes-8b6036175)](https://www.linkedin.com/in/milton-gomes-8b6036175)
 
 
