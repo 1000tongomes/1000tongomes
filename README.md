@@ -10,15 +10,18 @@ Trabalho como **mecânico de aeronaves**, mas estou em transição para a área 
 ---
 
 ### 📊 Minhas Estatísticas do GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1000tongomes&count_private=true&show_icons=true&theme=radical&token=GH_STATS_TOKEN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1000tongomes&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+---
 
 ### 🔥 Linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1000tongomes&layout=compact&theme=radical&count_private=true&token=GH_STATS_TOKEN)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1000tongomes&layout=compact&theme=radical)
 
+---
 
-💡 **Vamos conectar?**  
+💡 **Vamos conectar?**
 
-[![LinkedIn](https://img.shields.io/badge/-Milton_Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milton-gomes-8b6036175)](https://www.linkedin.com/in/milton-gomes-8b6036175)
+[![LinkedIn](https://img.shields.io/badge/-Milton_Gomes-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-gomes-8b6036175)
 
 
 
